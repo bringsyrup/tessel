@@ -1,0 +1,22 @@
+{
+  "name": "Tessel",
+  "version": "1.0.0",
+  "description": "messing around with Tessel cuz it's AWESOME",
+  "main": "hello_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bringsyrup/tessel.git"
+  },
+  "keywords": [
+    "tessel"
+  ],
+  "author": "Ruby Spring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bringsyrup/tessel/issues"
+  },
+  "homepage": "https://github.com/bringsyrup/tessel"
+}
